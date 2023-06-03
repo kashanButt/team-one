@@ -9,7 +9,7 @@ $seperator = $settings["site"]["seperator"];
 $page_title = "Music";
 include "../partials/header.php";
 ?>
-<div class="music-page banner-slider">
+<div class="music-page banner-slider" data-aos="fade-up" data-aos-duration="1000">
     <!-- <img src="../assets/images/home-img-01.webp" alt="" class="slider-img-01">
     <img src="../assets/images/home-img-02.webp" alt="" class="slider-img-02">
     <img src="../assets/images/home-img-03.webp" alt="" class="slider-img-03"> -->
@@ -18,14 +18,14 @@ include "../partials/header.php";
         <span class="rightArrow"><i class="fa-solid fa-angle-up"></i></span>
     </div> -->
 </div>
-<div class="search mtop-20 mbot-20">
+<div class="search mtop-20 mbot-20" data-aos="fade-up" data-aos-duration="1000">
     <h3>TALENTS</h3>
     <form method="post">
         <input type="text" name="searchTalents" id="searchbar" placeholder="Search">
         <button type="submit"><i class="fa-solid fa-arrow-right"></i></button>
     </form>
 </div>
-<div class="trends banner">
+<div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
     <h3>TRENDS</h3>
     <div class="artist-gallery display-flex banner">
         <div class="artist">
@@ -43,7 +43,7 @@ include "../partials/header.php";
     </div>
 </div>
 <hr class="hr">
-<div class="trends banner">
+<div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
     <h3>LIFE TIME HITS</h3>
     <div class="artist-gallery display-flex banner">
         <div class="artist">

@@ -9,7 +9,7 @@ $seperator = $settings["site"]["seperator"];
 $page_title = "News";
 include "../partials/header.php";
 ?>
-<div class="news banner display-flex">
+<div class="news banner display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="content">
         <h1 class="font-40">NEW<span style="color:#E92F2E">S</span></h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, sunt! Deserunt beatae asperiores
@@ -30,7 +30,7 @@ include "../partials/header.php";
             <h2>LeBron James has earned the right to decide his future, says LA Lakers general manager</h2>
         </div>
         <div class="news-slides">
-            <div class="slides display-flex">
+            <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="img">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
@@ -41,7 +41,7 @@ include "../partials/header.php";
                 </div>
             </div>
             <hr class="hr">
-            <div class="slides display-flex">
+            <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="img">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
@@ -52,7 +52,7 @@ include "../partials/header.php";
                 </div>
             </div>
             <hr class="hr">
-            <div class="slides display-flex">
+            <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="img">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
@@ -63,7 +63,7 @@ include "../partials/header.php";
                 </div>
             </div>
             <hr class="hr">
-            <div class="slides display-flex">
+            <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="img">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
@@ -76,11 +76,11 @@ include "../partials/header.php";
         </div>
     </div>
     <div class="sidebar">
-        <div class="mostDiscussed">
+        <div class="mostDiscussed" data-aos="fade-up" data-aos-duration="1000">
             <h3>MOST DISCUSSED</h3>
         </div>
         <div class="discussedNews">
-            <div class="news display-flex">
+            <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
                 </div>
                 <div class="content">
@@ -89,7 +89,7 @@ include "../partials/header.php";
                     </h4>
                 </div>
             </div>
-            <div class="news display-flex">
+            <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
                 </div>
                 <div class="content">
@@ -98,7 +98,7 @@ include "../partials/header.php";
                     </h4>
                 </div>
             </div>
-            <div class="news display-flex">
+            <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
                 </div>
                 <div class="content">
@@ -107,7 +107,7 @@ include "../partials/header.php";
                     </h4>
                 </div>
             </div>
-            <div class="news display-flex">
+            <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
                 </div>
                 <div class="content">

@@ -7,7 +7,7 @@ $file_url = $settings["site"]["file_url"];
 $seperator = $settings["site"]["site_name"];
 include "./partials/header.php";
 ?>
-<div class="banner home-banner display-flex mtop-30">
+<div class="banner home-banner display-flex mtop-30" data-aos="fade-up" data-aos-duration="1000">
     <div class="content pleft-50">
         <h1 class="bold font-80" style="margin-right: -160px;z-index:5;position:relative;">Congratulation<br>For Our
             Team.</h1>
@@ -23,8 +23,8 @@ include "./partials/header.php";
     </div>
 </div>
 <hr class="hr">
-<h2 class="center font-40">Announcements</h2>
-<div class="announcements display-flex">
+<h2 class="center font-40" data-aos="fade-up" data-aos-duration="1000">Announcements</h2>
+<div class="announcements display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="content">
         <h3 class="uppercase">New Updates</h3>
         <hr>
@@ -42,8 +42,8 @@ include "./partials/header.php";
         <img src="./assets/images/home-img-04.webp" alt="">
     </div>
 </div>
-<h2 class="mleft-15 mtop-40">THE LATEST</h2>
-<div class="latest display-flex">
+<h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">THE LATEST</h2>
+<div class="latest display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="content">
         <img src="./assets/images/home-img-05.webp" alt="">
     </div>
@@ -53,16 +53,16 @@ include "./partials/header.php";
         <img src="./assets/images/home-img-08.webp" alt="">
     </div>
 </div>
-<h2 class="mleft-15 mtop-40">MUSIC</h2>
-<div class="music display-flex">
+<h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">MUSIC</h2>
+<div class="music display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="image display-flex">
         <img src="./assets/images/home-img-09.webp" alt="">
         <img src="./assets/images/home-img-10.webp" alt="">
         <img src="./assets/images/home-img-11.webp" alt="">
     </div>
 </div>
-<h2 class="mleft-15 mtop-40">SPORTS</h2>
-<div class="sports display-flex">
+<h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">SPORTS</h2>
+<div class="sports display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="image">
         <img src="./assets/images/home-img-12.webp" alt="">
         <img src="./assets/images/home-img-13.webp" alt="">
@@ -71,13 +71,13 @@ include "./partials/header.php";
         <img src="./assets/images/home-img-14.webp" alt="">
     </div>
 </div>
-<h2 class="mleft-15 mtop-40">FEATURED TALENTS</h2>
-<div class="featured-talents display-flex">
+<h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">FEATURED TALENTS</h2>
+<div class="featured-talents display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="image">
         <img src="./assets/images/home-img-15.webp" alt="">
     </div>
     <div class="slider">
-        <p></p>
+        <p><i class="fa-solid fa-angle-up"></i></p>
     </div>
 </div>
 <?php

@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+:root {
+  --red: #e92f2e;
+  --black: #1e1e1e;
+}
 * {
   padding: 0;
   margin: 0;
@@ -7,7 +12,12 @@
   list-style: none;
   font-family: "Poppins", sans-serif;
 }
-
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--red);
+}
 h1 {
   font-family: "Bakbak One", cursive;
 }
@@ -18,7 +28,7 @@ h5 {
   font-weight: 400 !important;
 }
 a {
-  color: black;
+  color: var(--black);
 }
 main {
   width: 1200px;
@@ -28,31 +38,33 @@ header {
   width: 100%;
   display: flex;
   background-color: white;
+  animation: 0.2s linear fadeIn;
+  z-index: 20;
 }
 .hamburger {
   width: 26px;
   padding: 21% 11px;
   border-radius: 25px;
-  border: 1px solid black;
+  border: 1px solid var(--black);
   float: right;
   text-align: center;
   cursor: pointer;
 }
 .hamburger span {
   width: 25px;
-  border: 1px solid black;
+  border: 1px solid var(--black);
   display: block;
 }
 .hamburger span:nth-child(2) {
   width: 25px;
   margin-top: 5px;
-  border: 1px solid black;
+  border: 1px solid var(--black);
   display: block;
 }
 .hamburger span:nth-child(3) {
   width: 25px;
   margin-top: 5px;
-  border: 1px solid black;
+  border: 1px solid var(--black);
   display: block;
 }
 header .logo {
@@ -96,6 +108,15 @@ header .hamburger-option {
 }
 .banner {
   width: 100%;
+}
+.home-banner,
+.announcements,
+.latest,
+.music,
+.sports,
+.featured-talents,
+footer {
+  animation: 1s linear fadeFromBottom;
 }
 .home-banner .content {
   width: 58%;
@@ -168,7 +189,7 @@ header .hamburger-option {
 .hr {
   width: 100%;
   margin: 20px auto;
-  border-color: black;
+  border-color: var(--black);
 }
 .center {
   text-align: center;
@@ -190,7 +211,7 @@ header .hamburger-option {
 }
 .announcements hr {
   width: 20%;
-  border-color: black;
+  border-color: var(--black);
   margin: 10px 0;
 }
 .latest {
@@ -256,6 +277,22 @@ header .hamburger-option {
   background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   z-index: 5;
+  display: none;
+  animation: 0.2s linear fadeIn;
+}
+.featured-talents:hover .slider {
+  display: block;
+}
+.featured-talents .slider > p {
+  position: absolute;
+  top: 47%;
+  right: 40%;
+}
+.featured-talents .slider > p > i {
+  font-size: 50px;
+  color: white;
+  transform: rotate(90deg);
+  cursor: pointer;
 }
 .banner-slider {
   width: 100%;
@@ -264,7 +301,6 @@ header .hamburger-option {
 .music-page {
   width: 100%;
   height: 550px;
-  /* background-image: url(../images/music-img-01.webp); */
   background-position: center;
 }
 .music-page img {
@@ -474,14 +510,14 @@ header .hamburger-option {
 }
 .news .content button {
   padding: 0.7% 2%;
-  background-color: #e92f2e;
-  border: 1px solid #e92f2e;
+  background-color: var(--red);
+  border: 1px solid var(--red);
   color: white;
   transition: 0.2s ease all;
 }
 .news .content button:hover {
   background-color: inherit;
-  color: #e92f2e;
+  color: var(--red);
 }
 .news .img {
   width: 30%;
@@ -591,8 +627,9 @@ footer .upper-footer {
   padding: 50px 0;
 }
 footer .upper-footer form input[type="text"] {
+  width: 30%;
   border: none;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--black);
   text-align: center;
 }
 footer .upper-footer form input[type="text"]:focus {
@@ -604,13 +641,13 @@ footer .upper-footer form button {
   margin-top: 10px;
   padding: 0.5%;
   border-radius: 30px;
-  border: 1px solid black;
+  border: 1px solid var(--black);
   background-color: inherit;
   transition: 0.2s ease all;
   cursor: pointer;
 }
 footer .upper-footer form button:hover {
-  background-color: black;
+  background-color: var(--black);
   color: white;
 }
 footer .main-footer {

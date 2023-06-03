@@ -16,16 +16,12 @@
     </title>
     <link rel="stylesheet" href="<?php echo $base_url ?>/assets/css/style.css">
     <link rel="stylesheet" href="<?php echo $base_url ?>/assets/css/animation.css">
+    <link rel="stylesheet" href="<?php echo $base_url ?>/assets/css/responsive.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
-        integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <!-- Start WOWSlider.com HEAD section -->
-    <link rel="stylesheet" type="text/css" href="<?php echo $base_url ?>assets/wow-slider/engine1/style.css" />
-    <!-- End WOWSlider.com HEAD section -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
 <body>
@@ -42,11 +38,11 @@
                 <a href="<?php echo $base_url; ?>sports/">
                     <li>Sports</li>
                 </a>
-                <a href="<?php echo $base_url; ?>news/">
-                    <li>News</li>
-                </a>
                 <a href="<?php echo $base_url; ?>talents/">
                     <li>Talents</li>
+                </a>
+                <a href="<?php echo $base_url; ?>news/">
+                    <li>News</li>
                 </a>
                 <a href="<?php echo $base_url; ?>about-us/">
                     <li>About</li>

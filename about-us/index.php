@@ -9,7 +9,7 @@ $seperator = $settings["site"]["seperator"];
 $page_title = "About Us";
 include "../partials/header.php";
 ?>
-<div class="banner about-us display-flex">
+<div class="banner about-us display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="content">
         <h2>TEAM ONE MANAGMENT GROUP</h2>
         <h1 class="font-100">ABOUT US</h1>
@@ -20,15 +20,15 @@ include "../partials/header.php";
         <img src="../assets/images/sports-img-01.webp" alt="">
     </div>
 </div>
-<div class="whoWeAre">
+<div class="whoWeAre"data-aos="fade-up" data-aos-duration="1000">
     <h4>WHO WE ARE</h4>
     <hr class="hr">
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, vero quas? Consectetur ab ipsam quidem soluta
         vel eius pariatur totam repudiandae odit, obcaecati veritatis provident maxime saepe? Voluptatum ut perspiciatis
         impedit asperiores maiores assumenda officia!</p>
 </div>
-<h1 class="font-100 center ">WHO WE ARE</h1>
-<div class="whoWeAre">
+<h1 class="font-100 center" data-aos="fade-up" data-aos-duration="1000">WHO WE ARE</h1>
+<div class="whoWeAre" data-aos="fade-up" data-aos-duration="1000">
     <h4>WHO YOU'LL BE WORKING WITH</h4>
     <hr class="hr">
     <div class="employee display-flex banner">
