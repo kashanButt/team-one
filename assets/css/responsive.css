@@ -2,6 +2,9 @@
   main {
     width: 1300px;
   }
+  .banner-slider::before {
+    width: 1300px;
+  }
 }
 @media (min-width: 1008px) and (max-width: 1300px) {
   main {
@@ -67,7 +70,7 @@
     margin-left: 13px;
   }
   .hamburger {
-    width: 15px;
+    width: 22px;
     padding: 18% 14%;
   }
   .hamburger span {
@@ -121,6 +124,9 @@
   .talents-page::before {
     width: 641px;
     height: 450px;
+  }
+  .banner-slider::before{
+    height: 440px !important;
   }
   .banner-slider .arrows {
     width: 105%;
@@ -189,6 +195,12 @@
   footer .main-footer .content i {
     font-size: 3px !important;
   }
+  .banner-slider .carousel::before,
+  .banner-slider .carousel::after,
+  .banner-slider .carousel__prev,
+  .banner-slider .carousel__next {
+    margin-top: 32%;
+  }
 }
 @media (min-width: 350px) and (max-width: 640px) {
   ::-webkit-scrollbar {
@@ -222,7 +234,7 @@
     margin-left: 13px;
   }
   .hamburger {
-    width: 15px;
+    width: 19px;
     padding: 18% 14%;
   }
   .hamburger span {
@@ -277,6 +289,9 @@
   .talents-page::before {
     width: 350px;
     height: 250px;
+  }
+  .banner-slider::before{
+    height: 243px !important;
   }
   .banner-slider .arrows {
     width: 109%;
@@ -354,5 +369,13 @@
   }
   footer .main-footer .content i {
     font-size: 3px !important;
+  }
+  .banner-slider .carousel::before,
+  .banner-slider .carousel::after,
+  .banner-slider .carousel__prev,
+  .banner-slider .carousel__next {
+    margin-top: 32%;
+    width: 3rem;
+    height: 3rem;
   }
 }
