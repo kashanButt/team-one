@@ -11,7 +11,7 @@ var position = header.offsetTop;
 window.addEventListener("scroll", () => {
   if (window.pageYOffset > position) {
     header.classList.add("sticky");
-    header.style.top="0";
+    header.style.top = "0";
   } else {
     header.classList.remove("sticky");
   }
@@ -36,4 +36,7 @@ function showSlides() {
   slides[slideIndex - 1].style.display = "block";
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
-
+var li = document.querySelector("header .nav ul li");
+li.addEventListener("hover", () => {
+  document.getElementsByClassName("sub-menu").style.display = "block";
+});

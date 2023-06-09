@@ -79,7 +79,7 @@ header .nav {
   padding: 1%;
   margin: auto;
 }
-header .nav ul {
+header > .nav > ul {
   display: flex;
   float: right;
   animation: 0.2s linear fadeIn;
@@ -88,7 +88,7 @@ header .nav ul li {
   margin-left: 20px;
   cursor: pointer;
 }
-header .nav ul li:hover {
+header > .nav > ul > a > li:hover {
   font-weight: bold;
 }
 header .hamburger-option {
@@ -732,4 +732,26 @@ footer .main-footer .content i {
 .option-active {
   background-color: var(--black);
   color: white;
+}
+.sub-menu{
+  display: none;
+  position: absolute;
+  padding: 2%;
+  background-color: white;
+  z-index: 100;
+}
+.sub-menu > ul{
+  display: block !important;
+}
+.sub-menu > ul > a > li{
+  margin-top: 5px;
+  margin-left: 0;
+  transition: .2s ease all;
+}
+.sub-menu > ul > a > li:hover{
+  display: block !important;
+  margin-left: 10px;
+}
+header .nav ul li:hover .sub-menu{
+  display: block;
 }

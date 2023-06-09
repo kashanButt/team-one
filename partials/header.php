@@ -33,13 +33,64 @@
         <div class="nav">
             <ul class="list display-none">
                 <a href="<?php echo $base_url; ?>music/">
-                    <li>Music</li>
+                    <li>Music
+                        <div class="sub-menu">
+                            <ul>
+                                <a href="<?php echo $base_url; ?>music/">
+                                    <li>Label</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>music/">
+                                    <li>Management</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>music/">
+                                    <li>Publishing</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>music/">
+                                    <li>Personalities</li>
+                                </a>
+                            </ul>
+                        </div>
+                    </li>
                 </a>
                 <a href="<?php echo $base_url; ?>sports/">
-                    <li>Sports</li>
+                    <li>Sports
+                        <div class="sub-menu">
+                            <ul>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Label</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Management</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Publishing</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Personalities</li>
+                                </a>
+                            </ul>
+                        </div>
+                    </li>
                 </a>
                 <a href="<?php echo $base_url; ?>talents/">
-                    <li>Talents</li>
+                    <li>Talents
+                        <div class="sub-menu">
+                            <ul>
+                                <a href="<?php echo $base_url; ?>talents/">
+                                    <li>Label</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>talents/">
+                                    <li>Management</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>talents/">
+                                    <li>Publishing</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>talents/">
+                                    <li>Personalities</li>
+                                </a>
+                            </ul>
+                        </div>
+                    </li>
                 </a>
                 <a href="<?php echo $base_url; ?>news/">
                     <li>News</li>
