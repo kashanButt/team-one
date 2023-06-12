@@ -42,17 +42,37 @@ include "../partials/header.php";
 <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
     <h3>TRENDS</h3>
     <div class="artist-gallery display-flex banner">
-        <div class="artist">
+        <!-- <div class="artist">
             <img src="../assets/images/music-img-02.webp" alt="">
             <h3>J.Cole</h3>
+        </div> -->
+        <div class="artist">
+            <div class="slideshow-container">
+                <div class="mySlides fade">
+                    <img src="../assets/images/music-img-03.webp" alt="">
+                </div>
+            </div>
+            <h3>Marc Dub</h3>
         </div>
         <div class="artist">
-            <img src="../assets/images/music-img-03.webp" alt="">
-            <h3>DIXON</h3>
-        </div>
-        <div class="artist">
-            <img src="../assets/images/music-img-04.webp" alt="">
-            <h3>DJ Khaled</h3>
+            <div class="slideshow-container">
+                <div class="mySlides fade">
+                    <img src="../assets/images/music-img-04.webp" alt="">
+                </div>
+                <div class="mySlides fade">
+                    <img src="../assets/images/music-img-04 (1).webp" alt="">
+                </div>
+                <div class="mySlides fade">
+                    <img src="../assets/images/music-img-04 (2).webp" alt="">
+                </div>
+                <div class="mySlides fade">
+                    <img src="../assets/images/music-img-04 (3).webp" alt="">
+                </div>
+                <div class="mySlides fade">
+                    <img src="../assets/images/music-img-04 (4).webp" alt="">
+                </div>
+            </div>
+            <h3>VVS Knucky Johnson</h3>
         </div>
     </div>
 </div>
