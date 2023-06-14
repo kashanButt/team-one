@@ -733,25 +733,32 @@ footer .main-footer .content i {
   background-color: var(--black);
   color: white;
 }
-.sub-menu{
+.sub-menu {
   display: none;
   position: absolute;
   padding: 2%;
   background-color: white;
   z-index: 100;
 }
-.sub-menu > ul{
+.sub-menu > ul {
   display: block !important;
 }
-.sub-menu > ul > a > li{
+.sub-menu > ul > a > li {
   margin-top: 5px;
   margin-left: 0;
-  transition: .2s ease all;
+  transition: 0.2s ease all;
 }
-.sub-menu > ul > a > li:hover{
+.sub-menu > ul > a > li:hover {
   display: block !important;
   margin-left: 10px;
 }
-header .nav ul li:hover .sub-menu{
+header .nav ul li:hover .sub-menu {
   display: block;
+}
+.artist-socials {
+  width: 100%;
+}
+.artist-socials > span {
+  font-size: 20px;
+  margin-left: 10px;
 }

@@ -15,10 +15,10 @@ include "../partials/header.php";
             <img src="../assets/images/music-img-01.webp">
         </div>
         <div class="mySlides fade">
-            <img src="../assets/images/music-img-02.webp">
+            <img src="../assets/images/music-img-03.webp">
         </div>
         <div class="mySlides fade">
-            <img src="../assets/images/music-img-03.webp">
+            <img src="../assets/images/music-img-04.webp">
         </div>
     </div>
 </div>
@@ -42,42 +42,33 @@ include "../partials/header.php";
 <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
     <h3>TRENDS</h3>
     <div class="artist-gallery display-flex banner">
-        <!-- <div class="artist">
-            <img src="../assets/images/music-img-02.webp" alt="">
-            <h3>J.Cole</h3>
-        </div> -->
         <div class="artist">
-            <div class="slideshow-container">
-                <div class="mySlides fade">
-                    <img src="../assets/images/music-img-03.webp" alt="">
-                </div>
+            <img src="../assets/images/music-img-01.webp" alt="">
+            <div class="display-flex artist-socials">
+                <h3>Millticket Flashy</h3>
+                <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
+                            class="fa-brands fa-instagram"></i></span></a>
             </div>
-            <h3>Marc Dub</h3>
         </div>
         <div class="artist">
-            <div class="slideshow-container">
-                <div class="mySlides fade">
-                    <img src="../assets/images/music-img-04.webp" alt="">
-                </div>
-                <div class="mySlides fade">
-                    <img src="../assets/images/music-img-04 (1).webp" alt="">
-                </div>
-                <div class="mySlides fade">
-                    <img src="../assets/images/music-img-04 (2).webp" alt="">
-                </div>
-                <div class="mySlides fade">
-                    <img src="../assets/images/music-img-04 (3).webp" alt="">
-                </div>
-                <div class="mySlides fade">
-                    <img src="../assets/images/music-img-04 (4).webp" alt="">
-                </div>
+            <img src="../assets/images/music-img-03.webp" alt="">
+            <div class="display-flex artist-socials">
+                <h3>VVS Knucky Johnson</h3>
+                <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i class="fa-brands fa-instagram"></a></i></span>
             </div>
-            <h3>VVS Knucky Johnson</h3>
+        </div>
+        <div class="artist">
+            <img src="../assets/images/music-img-04.webp" alt="">
+            <div class="display-flex artist-socials">
+                <h3>Marc Dub</h3>
+                <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
+                            class="fa-brands fa-instagram"></i></span></a>
+            </div>
         </div>
     </div>
 </div>
-<hr class="hr">
-<div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
+<!-- <hr class="hr"> -->
+<!-- <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
     <h3>LIFE TIME HITS</h3>
     <div class="artist-gallery display-flex banner">
         <div class="artist">
@@ -93,7 +84,7 @@ include "../partials/header.php";
             <h3>Buju Banton</h3>
         </div>
     </div>
-</div>
+</div> -->
 <?php
 include "../partials/footer.php";
 ?>

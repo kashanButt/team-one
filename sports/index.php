@@ -40,23 +40,24 @@ include "../partials/header.php";
     </div>
 </div>
 <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
-    <h3>HEROES</h3>
+    <h3>ATHLETES</h3>
     <div class="artist-gallery display-flex banner">
         <div class="artist">
             <img src="../assets/images/sports-img-02.webp" alt="">
-            <h3>J.Cole</h3>
+            <div class="display-flex artist-socials">
+                <h3>Noxroy Wright</h3>
+                <span><a href="https://www.instagram.com/nox_wright/" target="__blank"><i class="fa-brands fa-instagram"></i></span></a>
+            </div>
         </div>
         <div class="artist">
             <img src="../assets/images/sports-img-03.webp" alt="">
-            <h3>DIXON</h3>
-        </div>
-        <div class="artist">
-            <img src="../assets/images/sports-img-04.webp" alt="">
-            <h3>DJ Khaled</h3>
+            <div class="display-flex artist-socials">
+                <h3>Chris Lipsey</h3>
+            </div>
         </div>
     </div>
 </div>
-<hr class="hr">
+<!-- <hr class="hr">
 <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
     <h3>LIFE TIME HITS</h3>
     <div class="artist-gallery display-flex banner">
@@ -73,7 +74,7 @@ include "../partials/header.php";
             <h3>Buju Banton</h3>
         </div>
     </div>
-</div>
+</div> -->
 <?php
 include "../partials/footer.php";
 ?>
