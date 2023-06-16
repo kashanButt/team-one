@@ -40,3 +40,17 @@ var li = document.querySelector("header .nav ul li");
 li.addEventListener("hover", () => {
   document.getElementsByClassName("sub-menu").style.display = "block";
 });
+
+function openSports(evt, sportsName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("search-option");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" option-active", "");
+  }
+  document.getElementById(sportsName).style.display = "block";
+  evt.currentTarget.className += " option-active";
+}

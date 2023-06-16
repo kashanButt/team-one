@@ -58,16 +58,31 @@
                         <div class="sub-menu">
                             <ul>
                                 <a href="<?php echo $base_url; ?>sports/">
-                                    <li>Label</li>
+                                    <li>Baseball</li>
                                 </a>
                                 <a href="<?php echo $base_url; ?>sports/">
-                                    <li>Management</li>
+                                    <li>Basketball</li>
                                 </a>
                                 <a href="<?php echo $base_url; ?>sports/">
-                                    <li>Publishing</li>
+                                    <li>College</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Cricket</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Football</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>International Football</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Netball</li>
                                 </a>
                                 <a href="<?php echo $base_url; ?>sports/">
                                     <li>Personalities</li>
+                                </a>
+                                <a href="<?php echo $base_url; ?>sports/">
+                                    <li>Rugby</li>
                                 </a>
                             </ul>
                         </div>

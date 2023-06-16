@@ -367,6 +367,15 @@ footer {
   width: 95%;
   margin: auto;
 }
+.search > .search_options {
+  width: 20%;
+  margin-right: 2%;
+}
+.search > .options {
+  width: 70%;
+  margin-top: 16px;
+  text-align: right;
+}
 .search form {
   display: flex;
   margin: 10px 0;
@@ -375,7 +384,7 @@ footer {
   width: 100%;
   border: none;
   border-bottom: 1px solid;
-  font-size: 18px;
+  font-size: 14px;
 }
 .search input[type="text"]:focus {
   outline: none;
@@ -389,8 +398,11 @@ footer {
 .trends h3 {
   margin-left: 30px;
 }
+.trends .artist-gallery {
+  flex-wrap: wrap;
+}
 .trends .artist-gallery .artist {
-  width: 30%;
+  width: 16%;
   margin: 1%;
   padding: 1%;
 }
@@ -398,7 +410,7 @@ footer {
   width: 100%;
   margin: 1%;
   padding: 1%;
-  height: 400px;
+  height: 180px;
 }
 .sports-page {
   width: 100%;
@@ -684,6 +696,12 @@ footer .main-footer .content i {
   width: 100%;
   height: 535px;
 }
+.sports-search > .search_options {
+  width: 20%;
+}
+.sports-search > .options {
+  width: 80%;
+}
 
 /* Slideshow container */
 .slideshow-container {
@@ -707,7 +725,6 @@ footer .main-footer .content i {
   background-color: #717171;
 }
 
-/* Fading animation */
 .fade {
   animation-name: fade;
   animation-duration: 3s;
@@ -717,13 +734,14 @@ footer .main-footer .content i {
   margin: auto;
 }
 .options ul {
-  display: flex;
 }
 .options ul li {
+  float: left;
   text-align: center;
-  padding: 1% 5%;
+  padding: 1% 1.5%;
   margin: 1% 0;
   cursor: pointer;
+  font-size: 14.5px;
 }
 .options ul li:hover {
   background-color: var(--black);
@@ -761,4 +779,46 @@ header .nav ul li:hover .sub-menu {
 .artist-socials > span {
   font-size: 20px;
   margin-left: 10px;
+}
+.baseball-banner {
+  display: none;
+}
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Style the tab content */
+.tabcontent:nth-child(1) {
+  display: block;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.celebrity-info > .content {
+  width: 58%;
+  padding: 2%;
+}
+.celebrity-info > .credentials {
+  width: 38%;
+  padding: 2%;
 }
