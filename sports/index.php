@@ -50,78 +50,84 @@ include "../partials/header.php";
         <h3>ALL ATHLETES</h3><br>
         <div class="artist-gallery display-flex banner all-banner">
             <div class="artist">
-                <img src="../assets/images/sports-img-02.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Noxroy Wright</h3>
-                    <span><a href="https://www.instagram.com/nox_wright/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
+                <a href="../athlete/noxroy-wright.php">
+                    <img src="../assets/images/sports-img-02.webp" alt="">
+                    <div class="display-flex artist-socials">
+                        <h3>Noxroy Wright</h3>
+                </a>
+                <span><a href="https://www.instagram.com/nox_wright/" target="__blank"><i
+                            class="fa-brands fa-instagram"></i></span></a>
             </div>
-            <div class="artist">
+        </div>
+        <div class="artist">
+            <a href="../athlete/chris-lipsey.php">
                 <img src="../assets/images/sports-img-03.webp" alt="">
                 <div class="display-flex artist-socials">
                     <h3>Chris Lipsey</h3>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/foreman-shantae-main.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Foreman Shantae</h3>
-                    <span><a href="https://www.instagram.com/_shantae_foreman/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
+            </a>
         </div>
     </div>
+    <div class="artist">
+        <a href="../athlete/foreman-shantae.php">
+            <img src="../assets/images/foreman-shantae-main.webp" alt="">
+            <div class="display-flex artist-socials">
+                <h3>Foreman Shantae</h3>
+        </a>
+        <span><a href="https://www.instagram.com/_shantae_foreman/" target="__blank"><i
+                    class="fa-brands fa-instagram"></i></span></a>
+    </div>
+</div>
+</div>
+</div>
 
-    <div id="Baseball" class="tabcontent">
-        <h3>ALL BASEBALL ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
+<div id="Baseball" class="tabcontent">
+    <h3>ALL BASEBALL ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
     </div>
+</div>
 
-    <div id="Basketball" class="tabcontent">
-        <h3>ALL BASKETBALL ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
+<div id="Basketball" class="tabcontent">
+    <h3>ALL BASKETBALL ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
     </div>
-    <div id="College" class="tabcontent">
-        <h3>ALL COLLEGE ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
+</div>
+<div id="College" class="tabcontent">
+    <h3>ALL COLLEGE ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
     </div>
-    <div id="Cricket" class="tabcontent">
-        <h3>ALL CRICKET ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
+</div>
+<div id="Cricket" class="tabcontent">
+    <h3>ALL CRICKET ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
     </div>
-    <div id="Football" class="tabcontent">
-        <h3>ALL FOOTBAL ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-            
-        </div>
-    </div>
-    <div id="intFootball" class="tabcontent">
-        <h3>ALL INTERNATIONAL FOOTBALL ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
-    </div>
-    <div id="Netbal" class="tabcontent">
-        <h3>ALL NETBAL ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
-    </div>
-    <div id="Personalities" class="tabcontent">
-        <h3>ALL PERSONALITIES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
+</div>
+<div id="Football" class="tabcontent">
+    <h3>ALL FOOTBAL ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
 
-        </div>
     </div>
-    <div id="Rugby" class="tabcontent">
-        <h3>ALL RUGBY ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner all-banner">
-        </div>
+</div>
+<div id="intFootball" class="tabcontent">
+    <h3>ALL INTERNATIONAL FOOTBALL ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
     </div>
+</div>
+<div id="Netbal" class="tabcontent">
+    <h3>ALL NETBAL ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
+    </div>
+</div>
+<div id="Personalities" class="tabcontent">
+    <h3>ALL PERSONALITIES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
+
+    </div>
+</div>
+<div id="Rugby" class="tabcontent">
+    <h3>ALL RUGBY ATHLETES</h3><br>
+    <div class="artist-gallery display-flex banner all-banner">
+    </div>
+</div>
 </div>
 <!-- <hr class="hr">
 <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">

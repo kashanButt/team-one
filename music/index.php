@@ -46,32 +46,36 @@ include "../partials/header.php";
         <h3>ALL PERSONALITIES</h3><br>
         <div class="artist-gallery display-flex banner">
             <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <a href="../artist/marc-dub.php">
-                    <img src="../assets/images/music-img-04.webp" alt="">
+                <a href="../artist/millticket-flashy.php">
+                    <img src="../assets/images/music-img-01.webp" alt="">
                     <div class="display-flex artist-socials">
-                        <h3>Marc Dub</h3>
+                        <h3>Millticket Flashy</h3>
                 </a>
-                <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
+                <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
                             class="fa-brands fa-instagram"></i></span></a>
             </div>
         </div>
+        <div class="artist">
+            <a href="../artist/vvsknucky-johnson.php">
+                <img src="../assets/images/music-img-03.webp" alt="">
+                <div class="display-flex artist-socials">
+                    <h3>VVS Knucky Johnson</h3>
+            </a>
+            <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
+                        class="fa-brands fa-instagram"></a></i></span>
+        </div>
     </div>
+    <div class="artist">
+        <a href="../artist/marc-dub.php">
+            <img src="../assets/images/music-img-04.webp" alt="">
+            <div class="display-flex artist-socials">
+                <h3>Marc Dub</h3>
+        </a>
+        <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
+                    class="fa-brands fa-instagram"></i></span></a>
+    </div>
+</div>
+</div>
 </div>
 <div id="Creative" class="tabcontent">
     <h3>ALL CREATIVE PERSONALITIES</h3><br>
