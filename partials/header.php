@@ -22,7 +22,9 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
@@ -88,28 +90,11 @@
                         </div>
                     </li>
                 </a>
-                <a href="<?php echo $base_url; ?>talents/">
-                    <li>Talents
-                        <div class="sub-menu">
-                            <ul>
-                                <a href="<?php echo $base_url; ?>talents/">
-                                    <li>Label</li>
-                                </a>
-                                <a href="<?php echo $base_url; ?>talents/">
-                                    <li>Management</li>
-                                </a>
-                                <a href="<?php echo $base_url; ?>talents/">
-                                    <li>Publishing</li>
-                                </a>
-                                <a href="<?php echo $base_url; ?>talents/">
-                                    <li>Personalities</li>
-                                </a>
-                            </ul>
-                        </div>
-                    </li>
-                </a>
                 <a href="<?php echo $base_url; ?>news/">
                     <li>News</li>
+                </a>
+                <a href="<?php echo $base_url; ?>discover/">
+                    <li>Discover</li>
                 </a>
                 <a href="<?php echo $base_url; ?>about-us/">
                     <li>About</li>

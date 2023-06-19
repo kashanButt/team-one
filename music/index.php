@@ -61,380 +61,44 @@ include "../partials/header.php";
                                 class="fa-brands fa-instagram"></a></i></span>
                 </div>
             </div>
-            <a href="../artist/marc-dub/">
-                <div class="artist">
+            <div class="artist">
+                <a href="../artist/marc-dub.php">
                     <img src="../assets/images/music-img-04.webp" alt="">
                     <div class="display-flex artist-socials">
                         <h3>Marc Dub</h3>
-                        <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                    class="fa-brands fa-instagram"></i></span></a>
-                    </div>
-                </div>
-            </a>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
+                </a>
+                <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
+                            class="fa-brands fa-instagram"></i></span></a>
             </div>
         </div>
     </div>
-    <div id="Creative" class="tabcontent">
-        <h3>ALL CREATIVE PERSONALITIES</h3><br>
-        <div class="artist-gallery display-flex banner">
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-        </div>
+</div>
+<div id="Creative" class="tabcontent">
+    <h3>ALL CREATIVE PERSONALITIES</h3><br>
+    <div class="artist-gallery display-flex banner">
     </div>
-    <div id="Label" class="tabcontent">
-        <h3>ALL LABEL PERSONALITIES</h3><br>
-        <div class="artist-gallery display-flex banner">
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="Management" class="tabcontent">
-        <h3>ALL MANAGEMENT PERSONALITIES</h3><br>
-        <div class="artist-gallery display-flex banner">
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="Publishing" class="tabcontent">
-        <h3>ALL PUBLISHING PERSONALITIES</h3><br>
-        <div class="artist-gallery display-flex banner">
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="Personalities" class="tabcontent">
-        <h3>ALL ATHLETES</h3><br>
-        <div class="artist-gallery display-flex banner">
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-04.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Marc Dub</h3>
-                    <span><a href="https://www.instagram.com/officialmarcdub/" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-01.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>Millticket Flashy</h3>
-                    <span><a href="https://www.instagram.com/millticketflashy/#" target="__blank"><i
-                                class="fa-brands fa-instagram"></i></span></a>
-                </div>
-            </div>
-            <div class="artist">
-                <img src="../assets/images/music-img-03.webp" alt="">
-                <div class="display-flex artist-socials">
-                    <h3>VVS Knucky Johnson</h3>
-                    <span><a href="https://www.instagram.com/vvsknucky/" target="__blank"><i
-                                class="fa-brands fa-instagram"></a></i></span>
-                </div>
-            </div>
+</div>
+<div id="Label" class="tabcontent">
+    <h3>ALL LABEL PERSONALITIES</h3><br>
+    <div class="artist-gallery display-flex banner">
 
-        </div>
     </div>
+</div>
+<div id="Management" class="tabcontent">
+    <h3>ALL MANAGEMENT PERSONALITIES</h3><br>
+    <div class="artist-gallery display-flex banner">
+    </div>
+</div>
+<div id="Publishing" class="tabcontent">
+    <h3>ALL PUBLISHING PERSONALITIES</h3><br>
+    <div class="artist-gallery display-flex banner">
+    </div>
+</div>
+<div id="Personalities" class="tabcontent">
+    <h3>ALL PERSONALITIES</h3><br>
+    <div class="artist-gallery display-flex banner">
+    </div>
+</div>
 </div>
 <!-- <hr class="hr"> -->
 <!-- <div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
