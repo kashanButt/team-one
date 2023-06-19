@@ -648,7 +648,7 @@ footer .upper-footer form input[type="text"]:focus {
   outline: none;
 }
 footer .upper-footer form button {
-  width: 40px;
+  width: 52px;
   height: 40px;
   margin-top: 10px;
   padding: 0.5%;
@@ -830,6 +830,11 @@ header .nav ul li:hover .sub-menu {
   width: 25%;
   height: 323px;
   z-index: 5;
+  transition: .2s ease all;
+}
+.discover-tabs > .banners:hover {
+  transform: scale(1.07);
+  z-index: 15;
 }
 .discover-tabs > .banners::before {
   content: "";

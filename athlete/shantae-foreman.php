@@ -6,7 +6,7 @@ $site_name = $settings["site"]["site_name"];
 $file_url = $settings["site"]["file_url"];
 $seperator = $settings["site"]["seperator"];
 
-$page_title = "Foreman Shantae";
+$page_title = "Shantae Foreman";
 include "../partials/header.php";
 ?>
 <div class="music-page banner-slider" data-aos="fade-up" data-aos-duration="1000">
@@ -29,11 +29,17 @@ include "../partials/header.php";
         <div class="mySlides fade">
             <img src="../assets/images/foreman-shantae-six.webp">
         </div>
+        <div class="mySlides fade">
+            <img src="../assets/images/foreman-shantae-seven.webp">
+        </div>
+        <div class="mySlides fade">
+            <img src="../assets/images/foreman-shantae-eight.webp">
+        </div>
     </div>
 </div>
 <div class="celebrity-info display-flex">
     <div class="content">
-        <h2>Foreman Shantae</h2>
+        <h2>Shantae Foreman</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus impedit hic, magni nulla consequatur
             suscipit veniam ea assumenda quod aliquid, libero repellat incidunt voluptate, commodi totam in a tempora
             inventore dicta? Unde, quam sit ipsum ullam sint non doloribus itaque totam asperiores possimus quo

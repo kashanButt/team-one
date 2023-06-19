@@ -68,7 +68,7 @@ include "../partials/header.php";
         </div>
     </div>
     <div class="artist">
-        <a href="../athlete/foreman-shantae.php">
+        <a href="../athlete/shantae-foreman.php">
             <img src="../assets/images/foreman-shantae-main.webp" alt="">
             <div class="display-flex artist-socials">
                 <h3>Foreman Shantae</h3>

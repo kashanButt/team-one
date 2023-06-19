@@ -6,7 +6,7 @@
         <h4>ENTER EMAIL ADDRESS</h4>
         <form method="post">
             <input type="text" name="newsletter" id="newsletter"><br>
-            <button type="submit"><i class="fa-sharp fa-solid fa-magnifying-glass"></i></button>
+            <button type="submit" name="newsletterBtn">Send</button>
         </form>
     </div>
     <div class="main-footer display-flex">
@@ -35,3 +35,34 @@
 </body>
 
 </html>
+<?php
+if (isset($_POST["newsletterBtn"])) {
+    $email = $_POST["newsletter"];
+
+    $sender = $email;
+    $recipient = 'newsletter@teamonemanagementgrp.com';
+
+    $subject = "Email Submission";
+    $message = "
+              Customer Information
+      Customer Email = $email
+      "
+    ;
+    $headers = 'From:' . $sender;
+
+    if (mail($recipient, $subject, $message, $headers)) {
+        echo "
+          <script>
+              alert('Email Submitted')
+          </script>
+          ";
+    } else {
+        echo "
+          <script>
+              alert('Plz Try Again')
+          </script>
+          ";
+    }
+
+}
+?>
