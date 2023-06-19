@@ -43,8 +43,14 @@ include "../partials/header.php";
             deserunt in rem rerum dolore obcaecati alias quo, impedit harum ratione beatae vel voluptatem.</p>
     </div>
     <div class="credentials">
+        <h3>Country: Hometown St Thomas ,Jamaica</h3>
+        <h3>DOB: 22 OCT 2002</h3>
         <h3>Socials: <span><a href="https://www.instagram.com/_shantae_foreman/" target="__blank"><i
-                        class="fa-brands fa-instagram"></i></span></a></h3>
+                        class="fa-brands fa-instagram"></i></span></a>
+            <span class="world-athlete-logo"> <a
+                    href="https://worldathletics.org/athletes/jamaica/shantae-foreman-14693847" target="__blank"><img
+                        src="../assets/images/wa-logo.webp" alt=""></a></span>
+        </h3>
     </div>
 </div>
 <?php

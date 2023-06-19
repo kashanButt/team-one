@@ -12,6 +12,9 @@ include "../partials/header.php";
 <div class="music-page banner-slider" data-aos="fade-up" data-aos-duration="1000">
     <div class="slideshow-container">
         <div class="mySlides fade">
+            <img src="../assets/images/sports-img-02.webp">
+        </div>
+        <div class="mySlides fade">
             <img src="../assets/images/noxroy-wright-one.webp">
         </div>
         <div class="mySlides fade">
@@ -31,8 +34,17 @@ include "../partials/header.php";
             deserunt in rem rerum dolore obcaecati alias quo, impedit harum ratione beatae vel voluptatem.</p>
     </div>
     <div class="credentials">
-        <h3>Socials: <span><a href="https://www.instagram.com/nox_wright/" target="__blank"><i
-                        class="fa-brands fa-instagram"></i></span></a></h3>
+        <h3>Country: Kingston, Jamaica</h3>
+        <h3>DOB: 16 SEP 1998</h3>
+        <h3>Socials:
+            <span>
+                <a href="https://www.instagram.com/nox_wright/" target="__blank"><i class="fa-brands fa-instagram"></i>
+                </a>
+            </span>
+            <span class="world-athlete-logo"> <a
+                    href="https://worldathletics.org/athletes/jamaica/noxroy-wright-14739899" target="__blank"><img
+                        src="../assets/images/wa-logo.webp" alt=""></a></span>
+        </h3>
     </div>
 </div>
 <?php
