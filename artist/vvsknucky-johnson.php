@@ -25,13 +25,11 @@ include "../partials/header.php";
 <div class="celebrity-info display-flex">
     <div class="content">
         <h2>VVSKnucky Johnson</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus impedit hic, magni nulla consequatur
-            suscipit veniam ea assumenda quod aliquid, libero repellat incidunt voluptate, commodi totam in a tempora
-            inventore dicta? Unde, quam sit ipsum ullam sint non doloribus itaque totam asperiores possimus quo
-            repudiandae repellat cum molestiae eaque iusto officiis voluptatem consequuntur. Exercitationem dolores quod
-            veniam facere ipsam! Iusto suscipit dolorem neque, error quasi atque fugiat? Accusamus quidem alias sapiente
-            numquam harum ut maiores eveniet sequi saepe repellat architecto, corporis delectus aut earum! Enim illo
-            deserunt in rem rerum dolore obcaecati alias quo, impedit harum ratione beatae vel voluptatem.</p>
+        <p>VVS Knucky Jonhson, a luminary of extraordinary talent, is a visionary rapper, songwriter, and wordsmith.
+            Renowned for his impeccable lyrical dexterity and captivating storytelling, he commands attention with his
+            commanding presence. With his dynamic flow and profound insights, VVS Knucky Jonhson captivates listeners,
+            painting vivid portraits through his music. His lyrical prowess and magnetic charisma have established him
+            as a trailblazer in the realm of hip-hop, solidifying his status as an artist of remarkable distinction.</p>
     </div>
     <div class="credentials">
         <!-- <h3>Place of Birth: Tennessee, South Carolina</h3> -->

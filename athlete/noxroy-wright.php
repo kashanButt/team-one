@@ -25,13 +25,7 @@ include "../partials/header.php";
 <div class="celebrity-info display-flex">
     <div class="content">
         <h2>Noxroy Wright</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus impedit hic, magni nulla consequatur
-            suscipit veniam ea assumenda quod aliquid, libero repellat incidunt voluptate, commodi totam in a tempora
-            inventore dicta? Unde, quam sit ipsum ullam sint non doloribus itaque totam asperiores possimus quo
-            repudiandae repellat cum molestiae eaque iusto officiis voluptatem consequuntur. Exercitationem dolores quod
-            veniam facere ipsam! Iusto suscipit dolorem neque, error quasi atque fugiat? Accusamus quidem alias sapiente
-            numquam harum ut maiores eveniet sequi saepe repellat architecto, corporis delectus aut earum! Enim illo
-            deserunt in rem rerum dolore obcaecati alias quo, impedit harum ratione beatae vel voluptatem.</p>
+        <p>Meet Noxroy Wright, a junior athlete hailing from Kingston, Jamaica. With incredible speed and determination, he recently claimed victory in the 60m dash at the Carolina Challenge, clocking an impressive time of 6.79 seconds. Not only does this mark rank him second in the MEAC this season, but he also ranks first in the conference with a time of 21.30 seconds in the 200m dash. Keep an eye on Noxroy as he continues to shine and inspire with his exceptional sprinting abilities. With a captivating presence and an unmatched drive, Noxroy continues to inspire aspiring athletes worldwide, leaving spectators in awe of his extraordinary abilities.</p>
     </div>
     <div class="credentials">
         <h3>Country: Kingston, Jamaica</h3>

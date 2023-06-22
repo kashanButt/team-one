@@ -28,13 +28,12 @@ include "../partials/header.php";
 <div class="celebrity-info display-flex">
     <div class="content">
         <h2>Marc Dub</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus impedit hic, magni nulla consequatur
-            suscipit veniam ea assumenda quod aliquid, libero repellat incidunt voluptate, commodi totam in a tempora
-            inventore dicta? Unde, quam sit ipsum ullam sint non doloribus itaque totam asperiores possimus quo
-            repudiandae repellat cum molestiae eaque iusto officiis voluptatem consequuntur. Exercitationem dolores quod
-            veniam facere ipsam! Iusto suscipit dolorem neque, error quasi atque fugiat? Accusamus quidem alias sapiente
-            numquam harum ut maiores eveniet sequi saepe repellat architecto, corporis delectus aut earum! Enim illo
-            deserunt in rem rerum dolore obcaecati alias quo, impedit harum ratione beatae vel voluptatem.</p>
+        <p>Marc Dub, a virtuoso in the realm of music, is an exceptionally talented composer, producer, and
+            instrumentalist. Renowned for his innovative soundscapes and meticulous attention to detail, he has
+            established himself as a trailblazer in the industry. With his innate ability to blend genres and push
+            artistic boundaries, Marc Dub captivates audiences with his evocative compositions and masterful
+            performances. His unparalleled creativity and technical prowess make him a distinguished figure in the world
+            of music.</p>
     </div>
     <div class="credentials">
         <h3>Place of Birth: Tennessee, South Carolina</h3>
