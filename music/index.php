@@ -15,7 +15,7 @@ include "../partials/header.php";
             <img src="../assets/images/music-img-01.webp">
         </div>
         <div class="mySlides fade">
-            <img src="../assets/images/music-img-03.webp">
+            <img src="../assets/images/music-slider-two.webp">
         </div>
         <div class="mySlides fade">
             <img src="../assets/images/music-img-04.webp">

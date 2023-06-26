@@ -12,13 +12,13 @@ include "../partials/header.php";
 <div class="sports-page banner-slider" data-aos="fade-up" data-aos-duration="1000">
     <div class="slideshow-container">
         <div class="mySlides fade">
+            <img src="../assets/images/sports-slider-one.webp">
+        </div>
+        <div class="mySlides fade">
+            <img src="../assets/images/sports-slider-two.webp">
+        </div>
+        <div class="mySlides fade">
             <img src="../assets/images/sports-img-01.webp">
-        </div>
-        <div class="mySlides fade">
-            <img src="../assets/images/sports-img-02.webp">
-        </div>
-        <div class="mySlides fade">
-            <img src="../assets/images/sports-img-03.webp">
         </div>
     </div>
 </div>
@@ -41,7 +41,6 @@ include "../partials/header.php";
             <li class="search-option" onclick="openSports(event, 'intFootball')">International Football</li>
             <li class="search-option" onclick="openSports(event, 'Netbal')">Netbal</li>
             <li class="search-option" onclick="openSports(event, 'Personalities')">Personalities</li>
-            <li class="search-option" onclick="openSports(event, 'Rugby')">Rugby</li>
         </ul>
     </div>
 </div>
@@ -121,11 +120,6 @@ include "../partials/header.php";
     <h3>ALL PERSONALITIES</h3><br>
     <div class="artist-gallery display-flex banner all-banner">
 
-    </div>
-</div>
-<div id="Rugby" class="tabcontent">
-    <h3>ALL RUGBY ATHLETES</h3><br>
-    <div class="artist-gallery display-flex banner all-banner">
     </div>
 </div>
 </div>

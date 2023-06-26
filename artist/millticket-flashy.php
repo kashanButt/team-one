@@ -40,13 +40,7 @@ include "../partials/header.php";
 <div class="celebrity-info display-flex">
     <div class="content">
         <h2>MillTicket Flashy</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus impedit hic, magni nulla consequatur
-            suscipit veniam ea assumenda quod aliquid, libero repellat incidunt voluptate, commodi totam in a tempora
-            inventore dicta? Unde, quam sit ipsum ullam sint non doloribus itaque totam asperiores possimus quo
-            repudiandae repellat cum molestiae eaque iusto officiis voluptatem consequuntur. Exercitationem dolores quod
-            veniam facere ipsam! Iusto suscipit dolorem neque, error quasi atque fugiat? Accusamus quidem alias sapiente
-            numquam harum ut maiores eveniet sequi saepe repellat architecto, corporis delectus aut earum! Enim illo
-            deserunt in rem rerum dolore obcaecati alias quo, impedit harum ratione beatae vel voluptatem.</p>
+        <p>Millticket Flashy, the epitome of style and charisma, is a rising star in the world of entertainment. With his extraordinary talent and captivating performances, he has set himself apart from the crowd. Known for his impeccable fashion sense and magnetic stage presence, Millticket Flashy effortlessly blends music, dance, and artistry into an unforgettable experience. What sets him apart is his remarkable ability to seamlessly fuse genres, infusing his music with elements of hip-hop, R&B, and electronic sounds, creating a truly unique sonic landscape. With his infectious energy and innovative approach, Millticket Flashy is redefining the boundaries of creativity, leaving audiences in awe and eagerly anticipating his next move. Prepare to be dazzled as you step into the world of Millticket Flashy, where artistic brilliance and unmatched style collide.</p>
     </div>
     <div class="credentials">
         <!-- <h3>Place of Birth: Tennessee, South Carolina</h3> -->

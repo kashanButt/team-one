@@ -9,17 +9,12 @@ include "./partials/header.php";
 ?>
 <div class="banner home-banner display-flex mtop-30" data-aos="fade-up" data-aos-duration="1000">
     <div class="content pleft-50">
-        <h1 class="bold font-80" style="margin-right: -160px;z-index:5;position:relative;">Congratulation<br>For Our
-            Team.</h1>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus aliquid eum cum optio, accusamus laboriosam
-            id assumenda tempora quia? Autem iste at voluptate, harum reprehenderit quaerat voluptas quia, aspernatur
-            delectus asperiores dolores sit id est consequuntur incidunt architecto tempore saepe. Quos totam
-            dignissimos non ducimus.</p>
+        <h1 class="bold font-60">Celebrating Dreams
+            & <span class="home-span" style="color:#e92f2e;font-weight:900;">Victories</span></h1>
+        <p>At Team One Management, our mission is to empower artists and athletes by providing personalized guidance and strategic support at every step of their journey. From emerging talents to established professionals, we are committed to nurturing careers, maximizing opportunities, and delivering exceptional results.</p>
     </div>
-    <div class="image display-flex">
-        <img src="./assets/images/home-img-01.webp" alt="">
-        <img src="./assets/images/home-img-02.webp" alt="">
-        <img src="./assets/images/home-img-03.webp" alt="">
+    <div class="image">
+        <img src="./assets/images/home-banner-one.webp" alt="">
     </div>
 </div>
 <hr class="hr">
@@ -45,39 +40,21 @@ include "./partials/header.php";
 <h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">THE LATEST</h2>
 <div class="latest display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="content">
-        <img src="./assets/images/home-img-05.webp" alt="">
-    </div>
-    <div class="image display-flex">
-        <img src="./assets/images/home-img-06.webp" alt="">
-        <img src="./assets/images/home-img-07.webp" alt="">
-        <img src="./assets/images/home-img-08.webp" alt="">
+        <img src="./assets/images/home-latest-img.webp" alt="">
     </div>
 </div>
 <h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">MUSIC</h2>
 <div class="music display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="image display-flex">
-        <img src="./assets/images/home-img-09.webp" alt="">
-        <img src="./assets/images/home-img-10.webp" alt="">
-        <img src="./assets/images/home-img-11.webp" alt="">
+        <img src="./assets/images/home-music-one.webp" alt="">
+        <img src="./assets/images/home-music-two.webp" alt="">
+        <img src="./assets/images/home-music-three.webp" alt="">
     </div>
 </div>
 <h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">SPORTS</h2>
 <div class="sports display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="image">
-        <img src="./assets/images/home-img-12.webp" alt="">
-        <img src="./assets/images/home-img-13.webp" alt="">
-    </div>
-    <div class="image">
-        <img src="./assets/images/home-img-14.webp" alt="">
-    </div>
-</div>
-<h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">FEATURED TALENTS</h2>
-<div class="featured-talents display-flex" data-aos="fade-up" data-aos-duration="1000">
-    <div class="image">
-        <img src="./assets/images/home-img-15.webp" alt="">
-    </div>
-    <div class="slider">
-        <p><i class="fa-solid fa-angle-up"></i></p>
+        <img src="./assets/images/home-sports-img.webp" alt="">
     </div>
 </div>
 <?php

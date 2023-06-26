@@ -28,6 +28,7 @@
 </footer>
 
 <script src="<?php echo $base_url; ?>assets/js/app.js"></script>
+<script src="<?php echo $base_url; ?>assets/js/vanilla-slider.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
     AOS.init();
