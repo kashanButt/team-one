@@ -18,7 +18,7 @@
 ::-webkit-scrollbar-thumb {
   background-color: var(--red);
 }
-.home-span{
+.home-span {
   font-family: "Bakbak One", cursive;
 }
 h1 {
@@ -32,6 +32,9 @@ h5 {
 }
 a {
   color: var(--black);
+}
+p {
+  font-size: 18px;
 }
 main {
   width: 1200px;
@@ -936,24 +939,24 @@ header .nav ul li:hover .sub-menu {
   animation-name: fade;
   animation-duration: 1.5s;
 }
-.partners-banner{
+.partners-banner {
   padding: 80px 0;
   border-bottom: 1px solid var(--black);
 }
-.partners-info{
- width: 90%;
- margin: auto;
- border: 1px solid var(--black);
- margin-top: 1%;
- padding: 2%;
- flex-wrap: wrap;
+.partners-info {
+  width: 90%;
+  margin: auto;
+  border: 1px solid var(--black);
+  margin-top: 1%;
+  padding: 2%;
+  flex-wrap: wrap;
 }
-.partners{
+.partners {
   width: 42%;
   margin: 2%;
   padding: 2%;
 }
-.partners img{
+.partners img {
   width: 50%;
 }
 .flag {
