@@ -48,7 +48,7 @@ include "../partials/header.php";
             awe-inspiring routines and unwavering determination. Her poise and precision on the balance beam, vault, and
             uneven bars have earned her numerous accolades and a place among the elite in the gymnastics world. Beyond
             her remarkable skills, Shantae's infectious enthusiasm and commitment to empowering young athletes have made
-            her a role model for aspiring gymnasts worldwide.</p>
+            her a role model for aspiring athlete worldwide.</p>
     </div>
     <div class="credentials">
         <h3>Country: Hometown St Thomas ,Jamaica</h3>

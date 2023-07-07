@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
         <?php
+        clearstatcache();
         if ($_SERVER["REQUEST_URI"] == $file_url) {
             echo $site_name;
         } else {
