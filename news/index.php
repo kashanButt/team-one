@@ -12,9 +12,20 @@ include "../partials/header.php";
 <div class="news banner display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="content">
         <h1 class="font-40">NEW<span style="color:#E92F2E">S</span></h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, sunt! Deserunt beatae asperiores
-            voluptatum! Tenetur quisquam magnam eum illum nemo dolores. Animi expedita consequatur voluptatibus qui
-            repudiandae quas, vitae molestias doloremque at nobis iusto voluptates!</p>
+        <p>Demarco Bennett :Carifta Games 2023 - Gold & Silver Medallist
+            Breana Brown: Carifta Games 2023 - Gold & Silver Medallist
+            Adriennie Adams: Central American & Caribbean Games, San Salvador, El Salvador - Bronze Medalist
+            Michael Graham: NACAC Age Group Championships, Dominican Republic, July 15-16, 2023 - Multiple Medalist
+            Daneil Wright: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica
+            Daneil Wright: Aug 06-09, 2023 Commonwealth Youth Games U18 Port of Spain, Trinidad & Tobago
+            Shelley Ann Taylor: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica
+            Alexavier Monfries: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica
+            Niesha Burgher: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica There are two other major
+            international meets in which Jamaica will be participating: Pan American U20 Athletics Championships Aug
+            04-06, 2023, Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)
+            World Athletics Championships Budapest, Hungary Aug 19-27, 2023 Five Additional XLCR Eagles and Lady Eagles
+            are expected to be named to these teams, including Ackera Nugent and Nayoka Clunis to the World Athletics
+            Championships Budapest, Hungary.</p>
         <button class="mtop-20">SEE MORE</button>
     </div>
     <div class="img">
@@ -82,6 +93,7 @@ include "../partials/header.php";
         <div class="discussedNews">
             <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
+                    <img src="../assets/images/news-img-04.webp" alt="">
                 </div>
                 <div class="content">
                     <h4>SPORTS</h4>
@@ -91,6 +103,7 @@ include "../partials/header.php";
             </div>
             <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
+                    <img src="../assets/images/news-img-05.webp" alt="">
                 </div>
                 <div class="content">
                     <h4>SPORTS</h4>
@@ -100,6 +113,7 @@ include "../partials/header.php";
             </div>
             <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
                 <div class="image">
+                    <img src="../assets/images/news-img-06.webp" alt="">
                 </div>
                 <div class="content">
                     <h4>SPORTS</h4>
@@ -107,15 +121,7 @@ include "../partials/header.php";
                     </h4>
                 </div>
             </div>
-            <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="image">
-                </div>
-                <div class="content">
-                    <h4>SPORTS</h4>
-                    <h4>Jamal Murray once feared or his Nuggets future. Now he's put them on the brink of making history
-                    </h4>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>

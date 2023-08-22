@@ -18,7 +18,7 @@ include "../partials/header.php";
             <img src="../assets/images/sports-slider-two.webp">
         </div>
         <div class="mySlides fade">
-            <img src="../assets/images/sports-img-01.webp">
+            <img src="../assets/images/sports-slider-three.webp">
         </div>
     </div>
 </div>
@@ -123,24 +123,6 @@ include "../partials/header.php";
     </div>
 </div>
 </div>
-<!-- <hr class="hr">
-<div class="trends banner" data-aos="fade-up" data-aos-duration="1000">
-    <h3>LIFE TIME HITS</h3>
-    <div class="artist-gallery display-flex banner">
-        <div class="artist">
-            <img src="../assets/images/sports-img-05.webp" alt="">
-            <h3>Coheed and Cambria</h3>
-        </div>
-        <div class="artist">
-            <img src="../assets/images/sports-img-06.webp" alt="">
-            <h3>Chritina Aguilera</h3>
-        </div>
-        <div class="artist">
-            <img src="../assets/images/sports-img-07.webp" alt="">
-            <h3>Buju Banton</h3>
-        </div>
-    </div>
-</div> -->
 <?php
 include "../partials/footer.php";
 ?>

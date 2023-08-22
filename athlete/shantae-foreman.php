@@ -44,11 +44,7 @@ include "../partials/header.php";
             jumper. Representing Excelsior High School, she has cleared an impressive height of 1.73 meters in the high
             jump event. Additionally, Shantae showcased her versatility by achieving a remarkable 6.07-meter jump in the
             long jump at the ACC Indoor Championships. Her remarkable talents and unwavering dedication make her a true
-            inspiration in the world of track and field. Shantae has redefined the boundaries of the sport through her
-            awe-inspiring routines and unwavering determination. Her poise and precision on the balance beam, vault, and
-            uneven bars have earned her numerous accolades and a place among the elite in the gymnastics world. Beyond
-            her remarkable skills, Shantae's infectious enthusiasm and commitment to empowering young athletes have made
-            her a role model for aspiring athlete worldwide.</p>
+            inspiration in the world of track and field.</p>
     </div>
     <div class="credentials">
         <h3>Country: Hometown St Thomas ,Jamaica</h3>

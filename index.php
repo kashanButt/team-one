@@ -11,7 +11,9 @@ include "./partials/header.php";
     <div class="content pleft-50">
         <h1 class="bold font-60">Celebrating Dreams
             & <span class="home-span" style="color:#e92f2e;font-weight:900;">Victories</span></h1>
-        <p>At Team One Management, our mission is to empower artists and athletes by providing personalized guidance and strategic support at every step of their journey. From emerging talents to established professionals, we are committed to nurturing careers, maximizing opportunities, and delivering exceptional results.</p>
+        <p>At Team One Management, our mission is to empower artists and athletes by providing personalized guidance and
+            strategic support at every step of their journey. From emerging talents to established professionals, we are
+            committed to nurturing careers, maximizing opportunities, and delivering exceptional results.</p>
     </div>
     <div class="image">
         <img src="./assets/images/home-banner-one.webp" alt="">
@@ -24,14 +26,20 @@ include "./partials/header.php";
         <h3 class="uppercase">New Updates</h3>
         <hr>
         <h4>`RISE: The Siya Kolisi Story`<br>Documentry to premiere at tribecca film festival</h4>
-        <p class="mtop-10">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo reiciendis atque, dicta
-            vero tempora recusandae, quisquam autem eligendi aliquid ea ut consequuntur quod itaque sint assumenda
-            placeat aperiam dignissimos ratione quasi eius. Commodi ipsum illo enim ducimus ipsa iste, sit eligendi
-            dolores eius reiciendis excepturi modi debitis tempora aspernatur a temporibus sunt soluta voluptatum
-            perspiciatis pariatur cum dolore ullam! Error, voluptas est! Cupiditate doloribus et quaerat iusto eum
-            facilis fuga dolorem omnis ex voluptates, laboriosam possimus ratione id, sunt aliquam atque corporis
-            accusamus architecto saepe adipisci dicta! Id neque nobis fuga repellendus cumque ex quaerat quibusdam
-            sapiente! Veniam, numquam earum.</p>
+        <p class="mtop-10">Demarco Bennett :Carifta Games 2023 - Gold & Silver Medallist
+            Breana Brown: Carifta Games 2023 - Gold & Silver Medallist
+            Adriennie Adams: Central American & Caribbean Games, San Salvador, El Salvador - Bronze Medalist
+            Michael Graham: NACAC Age Group Championships, Dominican Republic, July 15-16, 2023 - Multiple Medalist
+            Daneil Wright: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica
+            Daneil Wright: Aug 06-09, 2023 Commonwealth Youth Games U18 Port of Spain, Trinidad & Tobago
+            Shelley Ann Taylor: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica
+            Alexavier Monfries: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica
+            Niesha Burgher: Jul 21-23, 2023 NACAC U18-U23 Championships San Jose, Costa Rica There are two other major
+            international meets in which Jamaica will be participating: Pan American U20 Athletics Championships Aug
+            04-06, 2023, Estadio Jose A. Figueroa Freyre, Mayag端ez (PUR)
+            World Athletics Championships Budapest, Hungary Aug 19-27, 2023 Five Additional XLCR Eagles and Lady Eagles
+            are expected to be named to these teams, including Ackera Nugent and Nayoka Clunis to the World Athletics
+            Championships Budapest, Hungary.</p>
     </div>
     <div class="image">
         <img src="./assets/images/home-img-04.webp" alt="">
@@ -47,8 +55,8 @@ include "./partials/header.php";
 <div class="music display-flex" data-aos="fade-up" data-aos-duration="1000">
     <div class="image display-flex">
         <img src="./assets/images/home-music-one.webp" alt="">
-        <img src="./assets/images/home-music-two.webp" alt="">
         <img src="./assets/images/home-music-three.webp" alt="">
+        <img src="./assets/images/home-music-two.webp" alt="">
     </div>
 </div>
 <h2 class="mleft-15 mtop-40" data-aos="fade-up" data-aos-duration="1000">SPORTS</h2>

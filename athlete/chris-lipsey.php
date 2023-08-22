@@ -23,6 +23,15 @@ include "../partials/header.php";
         <div class="mySlides fade">
             <img src="../assets/images/chris-lipsey-four.webp">
         </div>
+        <div class="mySlides fade">
+            <img src="../assets/images/chris-lipsey-five.webp">
+        </div>
+        <div class="mySlides fade">
+            <img src="../assets/images/chris-lipsey-six.webp">
+        </div>
+        <div class="mySlides fade">
+            <img src="../assets/images/chris-lipsey-seven.webp">
+        </div>
     </div>
 </div>
 <div class="celebrity-info display-flex">
