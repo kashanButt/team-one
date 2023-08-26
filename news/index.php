@@ -37,7 +37,6 @@ include "../partials/header.php";
         <hr class="hr">
         <img src="../assets/images/news-img-02.webp" alt="">
         <div class="heading">
-            <h2><span style="color:#E92F2E">SPORTS</span> ---- 2 DAYS AGO</h2>
             <h2>LeBron James has earned the right to decide his future, says LA Lakers general manager</h2>
         </div>
         <div class="news-slides">
