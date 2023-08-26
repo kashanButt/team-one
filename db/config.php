@@ -1,10 +1,14 @@
 <?php
 class Database
 {
+    // private $host = 'localhost';
+    // private $db_name = 'team-one';
+    // private $username = 'root';
+    // private $password = '';
     private $host = 'localhost';
-    private $db_name = 'team-one';
-    private $username = 'root';
-    private $password = '';
+    private $db_name = 'teamvsjk_team-one';
+    private $username = 'teamvsjk_admin';
+    private $password = 'HaiderFelix';
     private $conn;
 
     public function connect()
