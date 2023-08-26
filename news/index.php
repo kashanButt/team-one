@@ -46,7 +46,6 @@ include "../partials/header.php";
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
-                    <h4><span style="color:#E92F2E">SPORTS</span> ---- 2 DAYS AGO</h4>
                     <h4>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</h4>
                     <p>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</p>
                 </div>
@@ -57,7 +56,6 @@ include "../partials/header.php";
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
-                    <h4><span style="color:#E92F2E">SPORTS</span> ---- 2 DAYS AGO</h4>
                     <h4>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</h4>
                     <p>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</p>
                 </div>
@@ -68,7 +66,6 @@ include "../partials/header.php";
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
-                    <h4><span style="color:#E92F2E">SPORTS</span> ---- 2 DAYS AGO</h4>
                     <h4>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</h4>
                     <p>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</p>
                 </div>
@@ -79,7 +76,6 @@ include "../partials/header.php";
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
-                    <h4><span style="color:#E92F2E">SPORTS</span> ---- 2 DAYS AGO</h4>
                     <h4>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</h4>
                     <p>Sean Elliot: What life is likefor 'Memorial Day Miracle' NBA Star after kidnay transplant</p>
                 </div>
