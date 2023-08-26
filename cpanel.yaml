@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/teamvsjk/teamonemanagementgrp.com/
-    - /bin/cp -R team-one $DEPLOYPATH
+    - /bin/cp -R repositories/team-one $DEPLOYPATH
