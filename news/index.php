@@ -42,7 +42,7 @@ include "../partials/header.php";
         </div>
         <div class="news-slides">
             <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="img">
+                <div class="img img-overlay">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
@@ -53,7 +53,7 @@ include "../partials/header.php";
             </div>
             <hr class="hr">
             <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="img">
+                <div class="img img-overlay">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
@@ -64,7 +64,7 @@ include "../partials/header.php";
             </div>
             <hr class="hr">
             <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="img">
+                <div class="img img-overlay">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
@@ -75,7 +75,7 @@ include "../partials/header.php";
             </div>
             <hr class="hr">
             <div class="slides display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="img">
+                <div class="img img-overlay">
                     <img src="../assets/images/news-img-03.webp" alt="">
                 </div>
                 <div class="content">
@@ -92,39 +92,45 @@ include "../partials/header.php";
         </div>
         <div class="discussedNews">
             <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="image">
+                <div class="image img-overlay">
                     <img src="../assets/images/news-img-04.webp" alt="">
                 </div>
                 <div class="content">
                     <h4>SPORTS</h4>
-                    <h4>Jamal Murray once feared or his Nuggets future. Now he's put them on the brink of making history
+                    <h4>Noah Lyles 🇺🇲 is the World 100m Champion.
                     </h4>
                 </div>
             </div>
             <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="image">
+                <div class="image img-overlay">
                     <img src="../assets/images/news-img-05.webp" alt="">
                 </div>
                 <div class="content">
                     <h4>SPORTS</h4>
-                    <h4>Jamal Murray once feared or his Nuggets future. Now he's put them on the brink of making history
+                    <h4>4x European Champion Zharnel Hughes 🇬🇧 wins his first individual global medal with 100m bronze
+                        in 9.88!
                     </h4>
                 </div>
             </div>
             <div class="news display-flex" data-aos="fade-up" data-aos-duration="1000">
-                <div class="image">
+                <div class="image img-overlay" onclick="changeDisplay()">
                     <img src="../assets/images/news-img-06.webp" alt="">
                 </div>
                 <div class="content">
                     <h4>SPORTS</h4>
-                    <h4>Jamal Murray once feared or his Nuggets future. Now he's put them on the brink of making history
+                    <h4>JAAA named the team to the 2023 World Athletics Championships to Budapest, Hungary
                     </h4>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
+<section class="image-overlay">
+    <button class="close"><i class="fa-solid fa-x"></i></button>
+    <div class="image-section">
+        <img src="" alt="" class="overlay-img-src">
+    </div>
+</section>
 <?php
 include "../partials/footer.php";
 ?>
