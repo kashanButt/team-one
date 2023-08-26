@@ -6,6 +6,12 @@ $settings = [
         'site_name' => 'Team One',
         'seperator' => '-',
     ]
+    // 'site' => [
+    //     'base_url' => 'https://teamonemanagementgrp.com/',
+    //     'file_url' => '/',
+    //     'site_name' => 'Team One',
+    //     'seperator' => '-',
+    // ]
 ];
 
 return $settings;
