@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/teamvsjk/teamonemanagementgrp.com/
+    - /bin/cp -R team-one $DEPLOYPATH
